@@ -9,7 +9,7 @@
 
 • SQL/Relational Databases
 
-## Soft Skills
+## Soft Skills 👥
 • Strong Leadership in Group Projects
 
 • In-depth Skill Development
