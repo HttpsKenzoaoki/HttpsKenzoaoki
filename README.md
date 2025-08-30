@@ -20,7 +20,7 @@
 
 ###
 
-<h5 align="left">My name is Kenzo. I am a student of Systems Development (AMS) integrated with High School at the educational institution Etec Bento Quirino. I am 16 years old and I am always focused on studying programming. ✨</h5>
+<p align="left">My name is Kenzo. I am a student of Systems Development (AMS) integrated with High School at the educational institution Etec Bento Quirino. I am 16 years old and I am always focused on studying programming. ✨</p>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h5 align="left">• Strong Leadership in Group Projects<br><br>• In-depth Skill Development<br><br>• Proactivity<br><br>• Critical Thinking</h5>
+<p align="left">• Strong Leadership in Group Projects<br><br>• In-depth Skill Development<br><br>• Proactivity<br><br>• Critical Thinking</p>
 
 ###
 
@@ -62,22 +62,22 @@
 
 <ul>
   <li>
-    <a href="https://github.com/HttpsKenzoaoki/CrudJDBC" target="_blank"><b>Crud JDBC básico</b></a><br>
-    Pequeno projeto demonstrando operações básicas de CRUD com JDBC em Java.
+    <a href="https://github.com/HttpsKenzoaoki/CrudJDBC" target="_blank"><b>Crud JDBC </b></a><br>
+    Small project demonstrating basic CRUD operations with JDBC in Java.
   </li>
   <br>
   <li>
     <a href="https://github.com/HttpsKenzoaoki/ProjetoSimples_PAM" target="_blank"><b>Aplicativo Simples</b></a><br>
-    Projeto simples para estudo de desenvolvimento mobile.
+   Simple project for mobile development study.
   </li>
   <br>
   <li>
     <a href="https://github.com/HttpsKenzoaoki/AppNavegacao" target="_blank"><b>App Com Navegação por tela e Async Storage</b></a><br>
-    Aplicativo React Native com navegação entre telas e armazenamento local.
+    React Native application with navigation between screens and local storage.
   </li>
   <br>
   <li>
     <a href="https://github.com/HttpsKenzoaoki/Formulario-de-Cadastro" target="_blank"><b>Interface Gráfica de Cadastramento Java Swing</b></a><br>
-    Projeto de interface gráfica para cadastro de usuários usando Java Swing.
+   Graphic interface project for user registration using Java Swing.
   </li>
 </ul>
