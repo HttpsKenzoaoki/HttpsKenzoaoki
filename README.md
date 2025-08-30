@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhxYTZlbDU4djFwdnZ1bGp1cXZpN25ueWk2NjJia3VsMDk1anZqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 </div>
 
 ###
@@ -61,14 +61,14 @@
 ###
 
 <div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  <a target="_blank" href="https://github.com/HttpsKenzoaoki/CrudJDBC">
+    <img style="width: 100%" src="https://github.com/HttpsKenzoaoki/CrudJDBC" alt="Crud JDBC Basico  />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@HttpsKenzoaoki/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@HttpsKenzoaoki/1" alt="Medium post 2"  />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@HttpsKenzoaoki/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@HttpsKenzoaoki/2" alt="Medium post 3"  />
   </a>
 </div>
 
