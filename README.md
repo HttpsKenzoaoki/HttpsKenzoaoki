@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">My name is Kenzo. I am a student of Systems Development (AMS) integrated with High School at the educational institution Etec Bento Quirino. I am 16 years old and I am always focused on studying programming. ✨</p>
+<p align="left">My name is Kenzo. I am a student of Systems Development (AMS) integrated with High School at the educational institution Etec Bento Quirino. I am 17 years old and I am always focused on studying programming. ✨</p>
 
 ###
 
